@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-The Heart Disease Prediction Model project endeavors to develop an advanced machine learning framework capable of accurately predicting the likelihood of heart disease based on clinical and biomedical data. Heart disease remains one of the leading causes of mortality worldwide, presenting a significant public health challenge. Early detection and intervention are crucial for preventing adverse cardiovascular events and improving patient outcomes. However, diagnosing heart disease can be complex and relies on a combination of clinical assessments, medical tests, and risk factor analysis.
+The Heart Dissease Prediction Model project endeavors to develop an advanced machine learning framework capable of accurately predicting the likelihood of heart disease based on clinical and biomedical data. Heart disease remains one of the leading causes of mortality worldwide, presenting a significant public health challenge. Early detection and intervention are crucial for preventing adverse cardiovascular events and improving patient outcomes. However, diagnosing heart disease can be complex and relies on a combination of clinical assessments, medical tests, and risk factor analysis.
 
 The goal of this project is to leverage machine learning techniques to create a predictive model that can assist healthcare professionals in identifying individuals at risk of heart disease. By analyzing diverse data sources, including patient demographics, medical history, vital signs, and laboratory results, the model aims to identify patterns and features indicative of cardiovascular risk. This predictive capability could enable earlier detection of heart disease, facilitating timely intervention strategies and personalized treatment plans.
 
